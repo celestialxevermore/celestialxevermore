@@ -9,8 +9,6 @@ celestialevermore/celestialevermore is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=celestial)](https://solved.ac/celestial/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestialevermore)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celestialevermore&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celestialevermore&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
