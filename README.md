@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @celestialevermore
-- 👀 I’m interested in ...Making new things in C / C++ / C# / Python / HTML / Javascript 
+- 👀 I’m interested in ...Machine Learning / Solving Algorithm problems / Web 
 - 🌱 I’m currently learning ... MLA and Hadoop eco systems
 - 💞️ I’m looking to collaborate on ... nowhere yet :)
 - 📫 How to reach me ... key2317@naver.com / kjr5189@gmail.com
