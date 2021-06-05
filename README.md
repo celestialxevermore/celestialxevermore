@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... MLA and Hadoop eco systems
 - 💞️ I’m looking to collaborate on ... nowhere yet :)
 - 📫 How to reach me ... key2317@naver.com / kjr5189@gmail.com
-- <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+- <a href="https://www.instagram.com/celestial_evermore/" target="_blank"><img src="https://img.shields.io/badge/Instagram-20c997?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <!---
 celestialevermore/celestialevermore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
