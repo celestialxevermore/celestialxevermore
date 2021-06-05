@@ -3,7 +3,7 @@
 - 👀 I’m interested in ...Machine Learning / Solving Algorithm problems / Web 
 - 🌱 I’m currently learning ... MLA and Hadoop eco systems
 - 💞️ I’m looking to collaborate on ... nowhere yet :)
-- 📫 How to reach me ... <a href="https://www.instagram.com/celestial_evermore/" target="_blank"><img src="https://img.shields.io/badge/Instagram-20c997?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:key2317@naver.com/" target="_blank"><img src="https://img.shields.io/badge/Naver-20c997?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="mailto:kjr5189@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-20c997?style=flat-square&logo=Gmail&logoColor=white"/></a>
+- 📫 How to reach me ... <a href="https://www.instagram.com/celestial_evermore/" target="_blank"><img src="https://img.shields.io/badge/Instagram-#405DE6?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:key2317@naver.com/" target="_blank"><img src="https://img.shields.io/badge/Naver-20c997?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="mailto:kjr5189@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-20c997?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!---
 celestialevermore/celestialevermore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
