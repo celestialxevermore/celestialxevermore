@@ -3,6 +3,7 @@
 - 👀 I’m interested in ...Machine Learning / Solving Algorithm problems / Web / Reproducing & Customizing in Three Kingdom Romance 11th 
 - 🌱 I’m currently learning ... MLA and Hadoop eco systems
 - 💞️ I’m looking to collaborate on ... nowhere yet :)
+- I'm now in https://sites.google.com/aicampus.cau.ac.kr/dsl Recently!
 - 📫 How to reach me ... <a href="https://www.instagram.com/celestial_evermore/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:key2317@naver.com/" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="mailto:kjr5189@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!---
 celestialevermore/celestialevermore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
