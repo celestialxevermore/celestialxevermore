@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
-- I've joined in https://sites.google.com/aicampus.cau.ac.kr/dsl Recently!
+- I've joined in https://sites.google.com/aicampus.cau.ac.kr/dsl (2021.09.03 ~ Now)
 - 📫 How to reach me ... <a href="https://www.instagram.com/celestialxevermore/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:key2317@naver.com/" target="_blank"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="mailto:kjr5189@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!---
 celestialevermore/celestialevermore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
