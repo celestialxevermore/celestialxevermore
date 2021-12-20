@@ -2,6 +2,7 @@
 - 👋 I majored in English & English Literature at Chung-Ang University
 - 👀 I’m interested in ...Machine Learning / Solving Algorithm problems / Web / Reproducing & Customizing in Three Kingdom Romance 11th 
 - 🌱 I’m currently learning ... MLA and Hadoop eco systems
+- **Recently, I passed 1st Coding Test on KAKAO!** 
 - 💞️ Techs that I've used at least once ... <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
