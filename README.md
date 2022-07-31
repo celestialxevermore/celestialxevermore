@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj=celestial&cache=c")](https://solved.ac/celestial/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj=celestial&cache=c")](https://solved.ac/celestial)
 
 ### My Github Stats
 
