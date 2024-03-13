@@ -12,7 +12,9 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
-- I've joined in https://sites.google.com/aicampus.cau.ac.kr/dsl (2021.09.03 ~ Now)
+- I had my MS degree in AI at https://sites.google.com/aicampus.cau.ac.kr/dsl (2021.09.03 ~ 2023.08.12)
+- I'm now on my Ph.D degree course in AI at https://sites.google.com/view/decision-intelligence/home (2023.11.23 ~ Now)
+- My new personal website : https://celestialxevermore.github.io/homepage/
 - 📫 How to reach me ... <a href="https://www.instagram.com/celestialxevermore/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="mailto:key2317@naver.com/" target="_blank"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="mailto:kjr5189@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!---
 celestialxevermore/celestialxevermore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
